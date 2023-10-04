@@ -1,5 +1,5 @@
 # Neural_Network_From_Scratch
-In this project, I build a neural network from scratch, implementing a class structure, forward pass, and backpropagation through manual gradient calculations to create a functioning neural network trained on the MNIST dataset using only numpy. This is then compared to a Pytorch neural network trained on the same dataset
+In this project, I build a neural network from scratch, implementing the forward pass and backpropagation through gradient calculations to create a functioning neural network trained on the MNIST dataset using only numpy. This is then compared to a Pytorch neural network trained on the same dataset
 
 1. MNIST dataset is downloaded
 2. Linear layer class is constructed, with forward and backward functions defined. 
